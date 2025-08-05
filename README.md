@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   </p>
 
-  <h3> Studying <h3>
+  <h3>⚡️ Studying ⚡️<h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -57,24 +57,7 @@
   <li>📧 jueun036@gmail.com</li>
 </ul>
 
-<p align="center">
-  <h3>Baekjoon<h3>
-  <a href="https://solved.ac/jueun036">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jueun036" alt="Solved.ac 프로필"/>
-  </a>
-</p>
 
-<!--
-**jueun036/jueun036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://solved.ac/jueun036">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jueun036" alt="Solved.ac 프로필"/>
+</a>
