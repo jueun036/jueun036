@@ -40,6 +40,7 @@
 
 <ul>
   <li>Pirogramming 23기 (2025.06 ~ )</li>
+  <li>GDGoC Member (2025.10 ~ )</li>
 </ul>
 
 ## 🏆 Awards & Achievements
