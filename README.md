@@ -43,6 +43,7 @@
 
 <ul>
   <li>Pirogramming 23기 (2025.06 ~ )</li>
+  <li>HUFS Code Festival 문제 출제 (2025.11)</li>
   <li>GDGoC Member (2025.10 ~ )</li>
 </ul>
 
