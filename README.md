@@ -42,9 +42,11 @@
 ## 🌈Experience
 
 <ul>
-  <li>Pirogramming 23기 (2025.06 ~ )</li>
-  <li>HUFS Code Festival 문제 출제 (2025.11)</li>
-  <li>GDGoC Member (2025.10 ~ )</li>
+  <li>PnP(한국외대 컴퓨터공학부 학회) (2025.06 ~ )</li>
+  <li>Pirogramming 23기 & 운영진 (2025.06 ~ 2026.02)</li>
+  <li>HUFS Code Festival 2025 문제 출제진(2025.11)</li>
+  <li>Google Developer Groups on HUFS Member (2025.10 ~ )</li>
+  <li>LG Aimers 8기 (2026.01~ 2026.02)</li>
 </ul>
 
 ## 🏆 Awards & Achievements
